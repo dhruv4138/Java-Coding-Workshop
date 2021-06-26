@@ -1,13 +1,17 @@
 # Java-Coding-Workshop
 
 Java Coding basics with structured document 
+
     1)  PDF and  
     2)  .java files
         
 This entire uploads contains topics of coding like 
+
     1)  String 
     2)  Number programs
     3)  Pattern 
+    4)  Character array
+    5)  ArrayList
     
       including their outputs
       
