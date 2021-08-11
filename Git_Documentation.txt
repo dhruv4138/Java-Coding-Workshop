@@ -65,7 +65,9 @@ hashcode appears after cmd git log and yellow in colour.
 
 
 git checkout master
-to go in the present 
+to go in the present commit
+
+
 
 -----------------------------------------------------
 
@@ -76,3 +78,11 @@ Channel Name-
 Reference 2	:	https://www.youtube.com/watch?v=uaeKhfhYE0Uhttps://www.youtube.com/watch?v=uaeKhfhYE0U
 
 Channel Name- Anuj Bhaiya
+
+
+
+
+
+
+
+Display all 5499 possibilities? (y or n)
